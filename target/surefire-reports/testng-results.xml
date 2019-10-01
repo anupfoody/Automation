@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="209" started-at="2019-06-14T07:20:36Z" finished-at="2019-06-14T07:20:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="209" started-at="2019-06-14T07:20:36Z" finished-at="2019-06-14T07:20:36Z">
+      <class name="qaclickacademy.Test1">
+        <test-method status="PASS" signature="MobileAutomation()[pri:0, instance:qaclickacademy.Test1@38082d64]" name="MobileAutomation" duration-ms="1" started-at="2019-06-14T07:20:36Z" finished-at="2019-06-14T07:20:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileAutomation -->
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:qaclickacademy.Test1@38082d64]" name="browserAutomation" duration-ms="1" started-at="2019-06-14T07:20:36Z" finished-at="2019-06-14T07:20:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+      </class> <!-- qaclickacademy.Test1 -->
+      <class name="qaclickacademy.Test2">
+        <test-method status="PASS" signature="HomeloanTest()[pri:0, instance:qaclickacademy.Test2@2ed94a8b]" name="HomeloanTest" duration-ms="39" started-at="2019-06-14T07:20:36Z" finished-at="2019-06-14T07:20:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeloanTest -->
+        <test-method status="PASS" signature="StudyloanTest()[pri:0, instance:qaclickacademy.Test2@2ed94a8b]" name="StudyloanTest" duration-ms="1" started-at="2019-06-14T07:20:36Z" finished-at="2019-06-14T07:20:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StudyloanTest -->
+        <test-method status="PASS" signature="carloanTest()[pri:0, instance:qaclickacademy.Test2@2ed94a8b]" name="carloanTest" duration-ms="2" started-at="2019-06-14T07:20:36Z" finished-at="2019-06-14T07:20:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carloanTest -->
+      </class> <!-- qaclickacademy.Test2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
